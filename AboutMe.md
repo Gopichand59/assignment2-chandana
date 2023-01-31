@@ -15,3 +15,12 @@ Below I have created table and mentioned the details of countries and reason for
 | France           |  Vacation                       |    7                    |
 | UK               |  Trip                           |    5                    |
 | Dubai            |  Vacation                       |    9                    |
+
+---
+
+**Pithy Quotes**
+
+> Even in hard times there's a possibility to have fun -_MICHAEL_
+>
+> Just keep being true to yourself, if you're passionate about something go for it. -_SCOTT_
+
