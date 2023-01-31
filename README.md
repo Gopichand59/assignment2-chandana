@@ -9,3 +9,6 @@ Favorite team is cricket, team of the sport is Mumbai Indians
 1. Rohit
 2. pollard
 3. surya
+- Chennai super kings
+- Sunrisers
+- RRC
