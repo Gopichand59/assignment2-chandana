@@ -28,10 +28,21 @@ Below I have created table and mentioned the details of countries and reason for
 
 ## Code Fencing
 
-> [Adding body text](https://stackoverflow.com/questions/75304252/object-detection-using-fastai)
+> [How to make an image fit into a simple auto-playing slideshow?](https://stackoverflow.com/questions/65380644/how-to-make-an-image-fit-into-a-simple-auto-playing-slideshow)
 
-```HTML
-<a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
+HTML
 ```
-> [Adding body text](https://css-tricks.com/snippets/html/mailto-links)
+<div id="slideshow">
+  <div>
+    <img src="//farm6.static.flickr.com/5224/5658667829_2bb7d42a9c_m.jpg">
+  </div>
+  <div>
+    <img src="//farm6.static.flickr.com/5230/5638093881_a791e4f819_m.jpg">
+  </div>
+  <div>
+    Pretty cool eh? This slide is proof the content can be anything.
+  </div>
+</div>
+```
+ [Simple Auto-Playing Slideshow](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
 
